@@ -20,4 +20,4 @@ Este é um projeto simples desenvolvido em Java para simular o atendimento de um
 1. Certifique-se de ter o JDK instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/sistema-cafeteria-java.git](https://github.com/SEU_USUARIO/sistema-cafeteria-java.git)
+   git clone https://github.com/SEU_USUARIO/sistema-cafeteria-java.git](https://github.com/SEU_USUARIO/sistema-cafeteria-java.git)](https://github.com/giliane-23/Sistema-Cafeteria.git)
